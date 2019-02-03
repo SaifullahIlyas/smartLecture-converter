@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>165318542582-a0910bnutb5djj2b5vbl39na5blpnsoj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.165318542582-a0910bnutb5djj2b5vbl39na5blpnsoj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD02L6SIU32ebCtR7TBTSf5Wbx8Pe6Fmrs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>165318542582</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CodeRecipe.project</string>
+	<key>PROJECT_ID</key>
+	<string>madproject-9bd9b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>madproject-9bd9b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:165318542582:ios:4a0a7feb7b1d82bd</string>
+	<key>DATABASE_URL</key>
+	<string>https://madproject-9bd9b.firebaseio.com</string>
+</dict>
+</plist>
