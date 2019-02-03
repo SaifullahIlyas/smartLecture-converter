@@ -17,5 +17,5 @@ step4.
 =
 After Configuring the Application Run the Application.The application Starts With the Login Sceen
 
-/Users/mac/Desktop/Screenshot 2019-02-03 at 10.17.34 AM.png
+
 
